@@ -1,11 +1,8 @@
 package com.prog.arith;
 
-
-import org.springframework.stereotype.Service;
-
 import java.io.*;
-import java.nio.file.Files;
 import java.util.Random;
+import org.springframework.stereotype.Service;
 
 @Service
 public class StoredIntService {
